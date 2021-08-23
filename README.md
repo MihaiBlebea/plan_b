@@ -1,16 +1,16 @@
 # PlanB
 
-**TODO: Add description**
+Documentation on [Hex Docs](https://hexdocs.pm/planb/api-reference.html)
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
+If [available in Hex](https://hex.pm/packages/planb), the package can be installed
 by adding `planb` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
   [
-    {:planb, "~> 0.1.0"}
+    {:planb, "~> 0.1.3"}
   ]
 end
 ```
